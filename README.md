@@ -9,7 +9,7 @@ I am currently pursuing an Master by Research at the India Institue of Technolog
 * 🌍  I'm based in India, Chennai
 * 🖥️  See my portfolio at [My Website](http://codewithbande.dev)
 * ✉️  You can contact me at [abdoulrahmanebande@gmail.com](mailto:b63915145@gmail.com)
-* 🚀  I'm currently working on [Project-name](http://github.com/mrkarama/Online-Shoes-Shop-Hub-App)
+* 🚀  I'm currently working on [End-to-End MLOps Pipeline for Student Success Analytics](https://github.com/abdoulrahmanebande/EduPredict-And-End-to-End-MLOps-Pipeline-for-Student-Success-Analytics)
 * 🤝  I'm open to collaborating on Data Science projects as well as Flutter as I have +2 years of experience in Flutter.
 * ⚡  I'm a Gym guy!
 

@@ -3,13 +3,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 -----------------------------------------
 
-I have a B-Tech in CSE(Data Science) from 2020-2024. I have worked at ManageEngine(ZOHO-CORPORATION) as a Data Science Intern from Nov 2024-Nov 2025.
-I am currently pursuing an Master by Research at the India Institue of Technology Madras.
+I am a Data Scientist who doesn't just build machine learning models in notebooks—I build, optimize, and deploy production-grade data systems end-to-end. My expertise spans across GenAI/RAG pipelines, MLOps cloud deployment, and modern data warehousing architectures.
+From designing high-throughput data engineering pipelines to setting up multi-cloud deployment structures, I bridge the gap between raw data infrastructure and production artificial intelligence.
+What I bring to a team:
+Generative AI & RAG Systems: Experienced in building production-ready Retrieval-Augmented Generation (RAG) applications from scratch. This includes configuring multi-format data ingestion, fine-tuning embedding processing, and managing advanced vector databases (Qdrant, Pinecone, FAISS) for optimized retrieval performance.
+Production MLOps: Dedicated to moving models out of local environments and into the cloud. Proven track record of deploying end-to-end ML models across multiple cloud providers using containerized workflows on AWS (ECR & ECS) and scalable deployments on Azure Web Apps.
+Modern Data Warehousing: Deep knowledge of building robust analytical architectures using the Medallion (Bronze, Silver, Gold) structural model. Expert in writing complex SQL and T-SQL to drive ETL processing, data modeling via star schemas, and engineering highly clean, analysis-ready data layers.
+Technical Core:
+GenAI / Vector Search: Qdrant, Pinecone, FAISS, Embedding Pipelines, RAG Ingestion Systems.
+MLOps & Cloud Infrastructure: AWS (ECS, ECR), Azure Web Apps, Docker, End-to-End ML Pipelines.
+Data Engineering & Analytics: SQL, T-SQL, Medallion Architecture, ETL Pipelines, Star Schema Data Modeling, Statistical Analysis.
+Always looking to connect with teams building scalable data products and next-generation AI platforms.
 
 * 🌍  I'm based in India, Chennai
 * 🖥️  See my portfolio at [My Website](http://codewithbande.dev)
 * ✉️  You can contact me at [abdoulrahmanebande@gmail.com](mailto:b63915145@gmail.com)
-* 🚀  I'm currently working on [End-to-End MLOps Pipeline for Student Success Analytics](https://github.com/abdoulrahmanebande/EduPredict-And-End-to-End-MLOps-Pipeline-for-Student-Success-Analytics)
+* 🚀  I'm currently working on [Customer Support Agent Copilot Rag App for Orange Burkina Faso](https://github.com/abdoulrahmanebande/The-Autonomous-Customer-Support-Agent-Copilot-for-Orange-Burkina)
 * 🤝  I'm open to collaborating on Data Science projects as well as Flutter as I have +2 years of experience in Flutter.
 * ⚡  I'm a Gym guy!
 

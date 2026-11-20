@@ -16,7 +16,7 @@ I am a computer science and data science graduate passionate about building prac
 ---
 
 ### 📌 Selected Highlights
-* **Published Researcher:** Co-authored peer-reviewed research on IoT-enabled multi-sensor analytics in *IEEE Transactions on AgriFood Electronics* (2025) — [DOI: 10.1109/TAFE.2024.3454644](ieeexplore.ieee.org/document/10703159).
+* **Published Researcher:** Co-authored peer-reviewed research on IoT-enabled multi-sensor analytics in *IEEE Transactions on AgriFood Electronics* (2025) — [DOI: 10.1109/TAFE.2024.3454644](https://ieeexplore.ieee.org/document/10703159).
 * **Industry Experience:** Former Data Science Intern at **Zoho Corporation (ManageEngine)**, building deep sequential models to detect anomalies in large-scale enterprise security logs.
 * **Academic Background:** B.Tech in Computer Science & Engineering (Data Science) from **Sharda University** (First Division), followed by graduate coursework in numerical methods and biomedical statistics at **IIT Madras**.
 

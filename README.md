@@ -10,7 +10,7 @@ I am a computer science and data science graduate passionate about building prac
 ### 💡 What I Do
 * **Machine Learning & Deep Learning:** Designing and optimizing predictive models for tabular, sequential (`LSTM`), sensor (`Random Forest`), and visual (`CNN`) data.
 * **Applied Biomedical & Clinical AI:** Exploring lightweight model compression (`INT8` quantization), explainable AI (`Grad-CAM`), and statistical modeling for healthcare applications.
-* **Software & Mobile Development:** Building clean web applications (`Flask`) and cross-platform mobile apps (`Flutter` — portfolio at [://github.com](https://://github.com)).
+* **Software & Mobile Development:** Building clean web applications (`Flask`) and cross-platform mobile apps (`Flutter` — portfolio at [://github.com](https://github.com/mrkarama)).
 * **Tech Education & Community Leadership:** Organizing coding bootcamps and mentoring computer science undergraduates through **Zindi Burkina Faso** to help emerging talent build end-to-end Python projects.
 
 ---

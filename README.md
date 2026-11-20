@@ -3,7 +3,7 @@
 **Data Scientist | Machine Learning Engineer | Community Tech Mentor**  
 📍 Ouagadougou, Burkina Faso
 
-I am a computer science and data science graduate passionate about building practical, efficient machine learning solutions that work reliably under real-world resource constraints. My experience spans enterprise deep learning, IoT sensor analytics, applied biomedical modeling, and grassroots technical mentorship across West Africa.
+I am a computer science and data science graduate passionate about building practical, efficient machine learning solutions that work reliably under real-world resource constraints. My experience spans enterprise machine learning, deep learning, applied biomedical modeling, and grassroots technical mentorship across West Africa.
 
 ---
 
